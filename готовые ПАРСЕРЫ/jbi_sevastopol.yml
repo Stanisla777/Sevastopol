@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<yml_catalog date="2019-03-30 16:28">
+		<shop>
+		<name>jbi-sevastopol.ru</name>
+		<company>jbi-sevastopol.ru</company>
+		<url>http://jbi-sevastopol.ru/products</url>
+		<currencies>
+		  <currency id="RUB" rate="1"/>
+		</currencies>
+		<offers>
+<offer id="1">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Кольцо железобетонное КС 15-9</name>
+
+		<param name="Цена">4500</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="2">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Кольцо железобетонное КС 15-6</name>
+
+		<param name="Цена">3200</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="3">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Кольцо железобетонное КС 15-0,45</name>
+
+		<param name="Цена">2800</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="4">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Кольцо железобетонное КС 10-9</name>
+
+		<param name="Цена">3000</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="5">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Кольцо железобетонное КС 10-6</name>
+
+		<param name="Цена">2200</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="6">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Кольцо железобетонное КС 10-0,45</name>
+
+		<param name="Цена">1800</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="7">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Кольцо железобетонное КС 7-9</name>
+
+		<param name="Цена">2000</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="8">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Кольцо железобетонное КС 7-6</name>
+
+		<param name="Цена">1400</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="9">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Кольцо железобетонное КС 7-3</name>
+
+		<param name="Цена">700</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="10">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Плита перекрытия колодца ПП 10-1</name>
+
+		<param name="Цена">2200</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="11">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Плита перекрытия колодца ПП 10-2</name>
+
+		<param name="Цена">2800</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="12">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Плита перекрытия колодца ПП 15-1</name>
+
+		<param name="Цена">4200</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="13">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Плита перекрытия колодца ПП 15-2</name>
+
+		<param name="Цена">4900</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="14">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Кольцо железобетонное КО-6</name>
+
+		<param name="Цена">500</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="15">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Люк бетонный</name>
+
+		<param name="Цена">500</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="16">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Плита днища колодца ПН - 10</name>
+
+		<param name="Цена">2200</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="17">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Плита днища колодца ПН - 15</name>
+
+		<param name="Цена">4200</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="18">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Кольцо железобетонное КС 20-9</name>
+
+		<param name="Цена">6300</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="19">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Кольцо железобетонное КС 20-6</name>
+
+		<param name="Цена">5000</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="20">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Плита перекрытия колодца ПП 20-1</name>
+
+		<param name="Цена">6300</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=1</url>
+
+     	</offer>
+<offer id="21">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Плита днища колодца ПН - 20</name>
+
+		<param name="Цена">6300</param>
+
+		<param name="Ед. измерения">шт</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=2</url>
+
+     	</offer>
+<offer id="22">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Газобетонный блок D600 перегородочный 600*300*150</name>
+
+		<param name="Цена">4000</param>
+
+		<param name="Ед. измерения">куб</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=2</url>
+
+     	</offer>
+<offer id="23">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Газобетонный блок D600 перегородочный 600*300*100</name>
+
+		<param name="Цена">4000</param>
+
+		<param name="Ед. измерения">куб</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=2</url>
+
+     	</offer>
+<offer id="24">
+		<param name="Категория">Железобетонные изделия</param>
+
+		<name>Газобетонный блок D600 стеновой 600*300*200</name>
+
+		<param name="Цена">4000</param>
+
+		<param name="Ед. измерения">куб</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://jbi-sevastopol.ru/products?page=2</url>
+
+     	</offer>
+</offers>
+
+		</shop>
+
+		</yml_catalog>

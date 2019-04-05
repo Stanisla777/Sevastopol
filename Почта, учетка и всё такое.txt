@@ -1,0 +1,14 @@
+Логин
+sevastopol-datasurf
+Пароль 
+sevastopol
+
+Контрольный вопрос
+Название компании
+
+Ответ
+Севастополь
+
+Пароль и логин в ds
+sevastopol-datasurf@yandex.ru
+123456

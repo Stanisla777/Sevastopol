@@ -1,0 +1,2619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<yml_catalog date="2019-03-26 19:24">
+		<shop>
+		<name>stroimaterialy-sevastopol.ru</name>
+		<company>stroimaterialy-sevastopol.ru</company>
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+		<currencies>
+		  <currency id="RUB" rate="1"/>
+		</currencies>
+		<offers>
+<offer id="1">
+		<param name="Категория">Без категории</param>
+
+		<name>Щебень</name>
+
+		<param name="Цена (опт)">65</param>
+
+		<param name="Цена (розн)">65</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="2">
+		<param name="Категория">Без категории</param>
+
+		<name>Керамзит</name>
+
+		<param name="Цена (опт)">200</param>
+
+		<param name="Цена (розн)">210</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="3">
+		<param name="Категория">Без категории</param>
+
+		<name>Песок речной</name>
+
+		<param name="Цена (опт)">110</param>
+
+		<param name="Цена (розн)">120</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="4">
+		<param name="Категория">Без категории</param>
+
+		<name>Песок морской(несеяный)</name>
+
+		<param name="Цена (опт)">90</param>
+
+		<param name="Цена (розн)">95</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="5">
+		<param name="Категория">Без категории</param>
+
+		<name>Песок морской (сеяный)</name>
+
+		<param name="Цена (опт)">95</param>
+
+		<param name="Цена (розн)">95</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="6">
+		<param name="Категория">Без категории</param>
+
+		<name>Цемент &quot;Новоросийский&quot;    500     50кг</name>
+
+		<param name="Цена (опт)">0</param>
+
+		<param name="Цена (розн)">0</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="7">
+		<param name="Категория">Без категории</param>
+
+		<name>Цемент &quot;Бахчисарайский&quot;    400    25 кг</name>
+
+		<param name="Цена (опт)">160</param>
+
+		<param name="Цена (розн)">166</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="8">
+		<param name="Категория">Без категории</param>
+
+		<name>Цемент &quot;Новороссийский&quot;    500    25кг</name>
+
+		<param name="Цена (опт)">168</param>
+
+		<param name="Цена (розн)">175</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="9">
+		<param name="Категория">Без категории</param>
+
+		<name>Отсев</name>
+
+		<param name="Цена (опт)">50</param>
+
+		<param name="Цена (розн)">55</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="10">
+		<param name="Категория">Без категории</param>
+
+		<name>Ракушка</name>
+
+		<param name="Цена (опт)">31</param>
+
+		<param name="Цена (розн)">32</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="11">
+		<param name="Категория">Без категории</param>
+
+		<name>Сетка ВР  50*50</name>
+
+		<param name="Цена (опт)">150</param>
+
+		<param name="Цена (розн)">170</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="12">
+		<param name="Категория">Без категории</param>
+
+		<name>Сетка ВР  100*100</name>
+
+		<param name="Цена (опт)">90</param>
+
+		<param name="Цена (розн)">100</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="13">
+		<param name="Категория">Без категории</param>
+
+		<name>Сетка ВР  150*150</name>
+
+		<param name="Цена (опт)">70</param>
+
+		<param name="Цена (розн)">90</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="14">
+		<param name="Категория">Утеплители</param>
+
+		<name>Knauf akustik 16 лис/12 м2   (1230*610*50)</name>
+
+		<param name="Цена (опт)">840</param>
+
+		<param name="Цена (розн)">880</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="15">
+		<param name="Категория">Утеплители</param>
+
+		<name>TEPLOKNAUF Дача 18 м2  (7280*1220*50) рулон</name>
+
+		<param name="Цена (опт)">835</param>
+
+		<param name="Цена (розн)">880</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="16">
+		<param name="Категория">Утеплители</param>
+
+		<name>URSA LIGHT 2-7000-1200*50   (16,8     м2) рулон</name>
+
+		<param name="Цена (опт)">705</param>
+
+		<param name="Цена (розн)">740</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="17">
+		<param name="Категория">Утеплители</param>
+
+		<name>Плита РОКЛАЙТ 1200*600*50   (8,64 м 2) </name>
+
+		<param name="Цена (опт)">93</param>
+
+		<param name="Цена (розн)">95</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="18">
+		<param name="Категория">Утеплители</param>
+
+		<name>Плита минватная ТЕХНОНИКОЛЬ    &quot;Технофас&quot;  600*1200*50  4,32м2</name>
+
+		<param name="Цена (опт)">225</param>
+
+		<param name="Цена (розн)">235</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="19">
+		<param name="Категория">Утеплители</param>
+
+		<name>Пенопласт  20мм      1*1 (30 шт)</name>
+
+		<param name="Цена (опт)">36</param>
+
+		<param name="Цена (розн)">38</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="20">
+		<param name="Категория">Утеплители</param>
+
+		<name>Пенопласт  30мм      1*1 (20 шт)</name>
+
+		<param name="Цена (опт)">54</param>
+
+		<param name="Цена (розн)">55</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="21">
+		<param name="Категория">Утеплители</param>
+
+		<name>Пенопласт  40мм      1*1 (15 шт)</name>
+
+		<param name="Цена (опт)">72</param>
+
+		<param name="Цена (розн)">74</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="22">
+		<param name="Категория">Утеплители</param>
+
+		<name>Пенопласт  50мм      1*1 (12 шт)</name>
+
+		<param name="Цена (опт)">90</param>
+
+		<param name="Цена (розн)">92</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="23">
+		<param name="Категория">Утеплители</param>
+
+		<name>Пенопласт  100мм 1*1 (6 шт)</name>
+
+		<param name="Цена (опт)">180</param>
+
+		<param name="Цена (розн)">185</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="24">
+		<param name="Категория">Утеплители</param>
+
+		<name>Плита ПЕНОПЛЕКС КОМФОРТ 20*600*1200    (18 шт) (0,2592 м3/уп)</name>
+
+		<param name="Цена (опт)">74</param>
+
+		<param name="Цена (розн)">77</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="25">
+		<param name="Категория">Утеплители</param>
+
+		<name>Плита ПЕНОПЛЕКС КОМФОРТ 30*600*1200    (12 шт) (0,2592 м3/уп)</name>
+
+		<param name="Цена (опт)">110</param>
+
+		<param name="Цена (розн)">115</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="26">
+		<param name="Категория">Утеплители</param>
+
+		<name>Плита ПЕНОПЛЕКС КОМФОРТ 40*600*1200 (9    шт) (0,2592 м3/уп)</name>
+
+		<param name="Цена (опт)">147</param>
+
+		<param name="Цена (розн)">153</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="27">
+		<param name="Категория">Утеплители</param>
+
+		<name>Плита ПЕНОПЛЕКС КОМФОРТ 50*600*1200 (7    шт) (0,2520 м3/уп)</name>
+
+		<param name="Цена (опт)">184</param>
+
+		<param name="Цена (розн)">191</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="28">
+		<param name="Категория">Утеплители</param>
+
+		<name>Плита ПЕНОПЛЕКС КОМФОРТ 100*600*1200    (4 шт) (0,288м3/уп)</name>
+
+		<param name="Цена (опт)">367</param>
+
+		<param name="Цена (розн)">382</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="29">
+		<param name="Категория">Шпаклёвки  Штукатурки</param>
+
+		<name>ХП Старт   25кг</name>
+
+		<param name="Цена (опт)">300</param>
+
+		<param name="Цена (розн)">330</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="30">
+		<param name="Категория">Шпаклёвки  Штукатурки</param>
+
+		<name>ХП Финиш   25кг</name>
+
+		<param name="Цена (опт)">380</param>
+
+		<param name="Цена (розн)">400</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="31">
+		<param name="Категория">Шпаклёвки  Штукатурки</param>
+
+		<name>МН Старт   30кг</name>
+
+		<param name="Цена (опт)">275</param>
+
+		<param name="Цена (розн)">290</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="32">
+		<param name="Категория">Шпаклёвки  Штукатурки</param>
+
+		<name>Перлфикс   клей     для гипсокартона 30кг</name>
+
+		<param name="Цена (опт)">385</param>
+
+		<param name="Цена (розн)">410</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="33">
+		<param name="Категория">Шпаклёвки  Штукатурки</param>
+
+		<name>Ротбанд   штукатурка     30кг универсальная</name>
+
+		<param name="Цена (опт)">470</param>
+
+		<param name="Цена (розн)">490</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="34">
+		<param name="Категория">Шпаклёвки  Штукатурки</param>
+
+		<name>МР 75      30кг штукатурка гипсовая машинного нанесения</name>
+
+		<param name="Цена (опт)">340</param>
+
+		<param name="Цена (розн)">360</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="35">
+		<param name="Категория">Шпаклёвки  Штукатурки</param>
+
+		<name>Фуген      25кг шпаклевка для швов ГКЛ</name>
+
+		<param name="Цена (опт)">495</param>
+
+		<param name="Цена (розн)">510</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="36">
+		<param name="Категория">Шпаклёвки  Штукатурки</param>
+
+		<name>Фуген      10кг шпаклевка для швов ГКЛ</name>
+
+		<param name="Цена (опт)">230</param>
+
+		<param name="Цена (розн)">245</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="37">
+		<param name="Категория">Шпаклёвки  Штукатурки</param>
+
+		<name>ХP Старт   30кг</name>
+
+		<param name="Цена (опт)">315</param>
+
+		<param name="Цена (розн)">345</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="38">
+		<param name="Категория">Шпаклёвки  Штукатурки</param>
+
+		<name>Штукатурка цементно-песчаная    универсальная  25кг</name>
+
+		<param name="Цена (опт)">278</param>
+
+		<param name="Цена (розн)">298</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="39">
+		<param name="Категория">Шпаклёвки  Штукатурки</param>
+
+		<name>Шпаклевка финишная КР 20кг</name>
+
+		<param name="Цена (опт)">375</param>
+
+		<param name="Цена (розн)">410</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="40">
+		<param name="Категория">Шпаклёвки  Штукатурки</param>
+
+		<name>Штукатурка Экомикс &quot;Старт&quot;BS    202  25кг</name>
+
+		<param name="Цена (опт)">180</param>
+
+		<param name="Цена (розн)">200</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="41">
+		<param name="Категория">Шпаклёвки  Штукатурки</param>
+
+		<name>Штукатурка Экомикс &quot;Короед&quot;    серая BS 206  25кг</name>
+
+		<param name="Цена (опт)">410</param>
+
+		<param name="Цена (розн)">430</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="42">
+		<param name="Категория">Шпаклёвки  Штукатурки</param>
+
+		<name>Штукатурка Экомикс &quot;Короед&quot;    белая  BS 208  25кг</name>
+
+		<param name="Цена (опт)">540</param>
+
+		<param name="Цена (розн)">560</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="43">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>Растворитель уайт-спирит 0,5 л</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">76,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="44">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>Растворитель уайт-спирит 1 л</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">131,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="45">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>Растворитель уайт-спирит 3 л</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">395,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="46">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>Растворитель уайт-спирит 5 л</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">637,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="47">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>Растворитель 646 0,5 л/0,4 кг Профи</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">100,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="48">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>Растворитель 646 1л/0,8 кг Профи</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">165,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="49">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>Растворитель 646 3л/2,5 кг Профи</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">495,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="50">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>Растворитель 646 5 л/4 кг Профи</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">780,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="51">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>Санирующее средство Санатекс 0,5 л</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">135,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="52">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>Санирующее средство Санатекс 5 л</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">540,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="53">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д влагостойкая 3 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">230,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="54">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д влагостойкая 7 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">530,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="55">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д влагостойкая 14 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">990,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="56">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д влагостойкая 25 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">1730,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="57">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д для потолка 3 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">165,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="58">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д для потолка 7 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">365,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="59">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д для потолка 14 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">640,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="60">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д для потолка 25 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">1110,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="61">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д интерьерная     3 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">186,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="62">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д интерьерная     7 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">420,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="63">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д интерьерная     14 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">770,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="64">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д интерьерная     25 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">1345,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="65">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д моющаяся     3 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">296,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="66">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д моющаяся     7 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">681,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="67">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д моющаяся     14 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">1286,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="68">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д моющаяся     25 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">2221,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="69">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д текстурная 8 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">791,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="70">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС в/д текстурная 16 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">1475,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="71">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС фасадная 6,5 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">582,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="72">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС фасадная 13 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">1200,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="73">
+		<param name="Категория">Краски, растворители</param>
+
+		<name>КРАСКА ТЕКС фасадная 25 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">2210,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="74">
+		<param name="Категория">Гипсокартон Кнауф</param>
+
+		<name>ГКЛ 9,5 мм    1,2*2,5м      потолочный</name>
+
+		<param name="Цена (опт)">258</param>
+
+		<param name="Цена (розн)">270</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="75">
+		<param name="Категория">Гипсокартон Кнауф</param>
+
+		<name>ГКЛ 9,5 мм    1,2*2,5м      влагостойкий</name>
+
+		<param name="Цена (опт)">360</param>
+
+		<param name="Цена (розн)">380</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="76">
+		<param name="Категория">Гипсокартон Кнауф</param>
+
+		<name>ГКЛ 12,5 мм   1,2*2,5м      стеновой</name>
+
+		<param name="Цена (опт)">295</param>
+
+		<param name="Цена (розн)">305</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="77">
+		<param name="Категория">Гипсокартон Кнауф</param>
+
+		<name>ГКЛ 12,5 мм   1,2*2,5м      влагостойкий</name>
+
+		<param name="Цена (опт)">390</param>
+
+		<param name="Цена (розн)">405</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="78">
+		<param name="Категория">OSB </param>
+
+		<name>OSB 9мм   (1,22*2,44)</name>
+
+		<param name="Цена (опт)">512</param>
+
+		<param name="Цена (розн)">515</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="79">
+		<param name="Категория">OSB </param>
+
+		<name>OSB 12мм   (1,22*2,44)</name>
+
+		<param name="Цена (опт)">760</param>
+
+		<param name="Цена (розн)">800</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="80">
+		<param name="Категория">OSB </param>
+
+		<name>OSB 15мм   (1,22*2,44)</name>
+
+		<param name="Цена (опт)">945</param>
+
+		<param name="Цена (розн)">990</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="81">
+		<param name="Категория">OSB </param>
+
+		<name>OSB 18мм   (1,22*2,44)</name>
+
+		<param name="Цена (опт)">1130</param>
+
+		<param name="Цена (розн)">1180</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="82">
+		<param name="Категория">OSB </param>
+
+		<name>OSB 22мм   (1,22*2,44)</name>
+
+		<param name="Цена (опт)">1420</param>
+
+		<param name="Цена (розн)">1490</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="83">
+		<param name="Категория">Газоблок</param>
+
+		<name>Газоблок 100   200*600</name>
+
+		<param name="Цена (опт)">55</param>
+
+		<param name="Цена (розн)">57</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="84">
+		<param name="Категория">Газоблок</param>
+
+		<name>Газоблок 300  200*600</name>
+
+		<param name="Цена (опт)">165</param>
+
+		<param name="Цена (розн)">170</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="85">
+		<param name="Категория">Наливной пол Старатели  Perfekta</param>
+
+		<name>Старатели наливной пол    быстротвердеющий  25кг  (5-100 мм)</name>
+
+		<param name="Цена (опт)">350</param>
+
+		<param name="Цена (розн)">380</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="86">
+		<param name="Категория">Наливной пол Старатели  Perfekta</param>
+
+		<name>Старатели наливной пол практичный  20кг     (5-70 мм)</name>
+
+		<param name="Цена (опт)">290</param>
+
+		<param name="Цена (розн)">320</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="87">
+		<param name="Категория">Наливной пол Старатели  Perfekta</param>
+
+		<name>Старатели наливной пол толстый  25кг     (30-100 мм)</name>
+
+		<param name="Цена (опт)">325</param>
+
+		<param name="Цена (розн)">350</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="88">
+		<param name="Категория">Наливной пол Старатели  Perfekta</param>
+
+		<name>Старатели наливной пол тонкий  25кг     (1-20 мм)</name>
+
+		<param name="Цена (опт)">495</param>
+
+		<param name="Цена (розн)">545</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="89">
+		<param name="Категория">Наливной пол Старатели  Perfekta</param>
+
+		<name>Perfekta Наливной пол армированный    &quot;Лайтслой&quot;  20кг  (1-100 мм)</name>
+
+		<param name="Цена (опт)">350</param>
+
+		<param name="Цена (розн)">385</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="90">
+		<param name="Категория">Наливной пол Старатели  Perfekta</param>
+
+		<name>Perfekta Наливной пол    быстротвердеющий     &quot;Нормаслой&quot;  20кг  (2-100 мм)</name>
+
+		<param name="Цена (опт)">305</param>
+
+		<param name="Цена (розн)">325</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="91">
+		<param name="Категория">Наливной пол Старатели  Perfekta</param>
+
+		<name>Стяжка     Старатели С-10  25кг  (30-100 мм)</name>
+
+		<param name="Цена (опт)">250</param>
+
+		<param name="Цена (розн)">265</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="92">
+		<param name="Категория">Наливной пол Старатели  Perfekta</param>
+
+		<name>Стяжка     толстослойная     &quot;Фиброслой&quot;  25кг  (10-200 мм)</name>
+
+		<param name="Цена (опт)">255</param>
+
+		<param name="Цена (розн)">275</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="93">
+		<param name="Категория">Наливной пол Старатели  Perfekta</param>
+
+		<name>Стяжка Экомикс BS 401 25 кг</name>
+
+		<param name="Цена (опт)">210</param>
+
+		<param name="Цена (розн)">230</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="94">
+		<param name="Категория">Наливной пол Старатели  Perfekta</param>
+
+		<name>Стекло жидкое натриевое 1,3 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">100,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="95">
+		<param name="Категория">Наливной пол Старатели  Perfekta</param>
+
+		<name>Стекло жидкое натриевое 15 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">900,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="96">
+		<param name="Категория">Наливной пол Старатели  Perfekta</param>
+
+		<name>Стекло жидкое натриевое 5 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">320,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="97">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Клей плиточный  Старатели &quot;Люкс&quot;  25кг</name>
+
+		<param name="Цена (опт)">360</param>
+
+		<param name="Цена (розн)">395</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="98">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Клей     плиточный Старатели &quot;Плюс&quot;     25кг</name>
+
+		<param name="Цена (опт)">280</param>
+
+		<param name="Цена (розн)">295</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="99">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Клей плиточный Старатели    &quot;Премиум&quot;  25кг</name>
+
+		<param name="Цена (опт)">435</param>
+
+		<param name="Цена (розн)">475</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="100">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Клей плиточный Старатели    &quot;Стандарт&quot;  25кг</name>
+
+		<param name="Цена (опт)">245</param>
+
+		<param name="Цена (розн)">260</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="101">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Клей плиточный &quot;Экомикс&quot;    25кг BS-102</name>
+
+		<param name="Цена (опт)">210</param>
+
+		<param name="Цена (розн)">230</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="102">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Клей     плиточный Perfekta &quot;Мультификс&quot;  25кг</name>
+
+		<param name="Цена (опт)">365</param>
+
+		<param name="Цена (розн)">400</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="103">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Клей плиточный  Perfekta &quot;Смартфикс Плюс &quot; 25кг</name>
+
+		<param name="Цена (опт)">260</param>
+
+		<param name="Цена (розн)">280</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="104">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Клей плиточный  Perfekta &quot;Хардфикс&quot;  25кг</name>
+
+		<param name="Цена (опт)">450</param>
+
+		<param name="Цена (розн)">485</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="105">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Клей плиточный  Perfekta &quot;Смартфикс&quot;  25кг</name>
+
+		<param name="Цена (опт)">245</param>
+
+		<param name="Цена (розн)">260</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="106">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Ceresit СМ 11 клей для плитки  25кг</name>
+
+		<param name="Цена (опт)">285</param>
+
+		<param name="Цена (розн)">295</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="107">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Ceresit СМ 14 Extra клей для    плитки  25кг</name>
+
+		<param name="Цена (опт)">370</param>
+
+		<param name="Цена (розн)">390</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="108">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Ceresit СМ 16 клей эластичный</name>
+
+		<param name="Цена (опт)">670</param>
+
+		<param name="Цена (розн)">690</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="109">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Ceresit СМ 117 клей универсальный </name>
+
+		<param name="Цена (опт)">720</param>
+
+		<param name="Цена (розн)">740</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="110">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Ceresit СМ 115 клей для мрамора 25    кг </name>
+
+		<param name="Цена (опт)">820</param>
+
+		<param name="Цена (розн)">840</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="111">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Toiler TL25   25кг клей для плитки</name>
+
+		<param name="Цена (опт)">245</param>
+
+		<param name="Цена (розн)">265</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="112">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Toiler TL35   25кг клей для керамической плитки</name>
+
+		<param name="Цена (опт)">280</param>
+
+		<param name="Цена (розн)">300</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="113">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Toiler TL50   25кг высокопрочный клей</name>
+
+		<param name="Цена (опт)">360</param>
+
+		<param name="Цена (розн)">380</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="114">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Toiler TL90   25кг клей для теплоизоляции</name>
+
+		<param name="Цена (опт)">385</param>
+
+		<param name="Цена (розн)">405</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="115">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Экомикс BS 107  для блоков из ячеистого бетона  25кг</name>
+
+		<param name="Цена (опт)">180</param>
+
+		<param name="Цена (розн)">200</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="116">
+		<param name="Категория">Клей для плитки Старатели     Perfekta  Ceresit</param>
+
+		<name>Экомикс BS 101  клей для плитки  25кг</name>
+
+		<param name="Цена (опт)">160</param>
+
+		<param name="Цена (розн)">180</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="117">
+		<param name="Категория">Клей</param>
+
+		<name>Клей  ПВА строительный 1    кг УНИВЕРСАЛ</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">100,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="118">
+		<param name="Категория">Клей</param>
+
+		<name>Клей     ПВА строительный 3 кг УНИВЕРСАЛ</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">255,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="119">
+		<param name="Категория">Клей</param>
+
+		<name>Клей  ПВА строительный    10 кг УНИВЕРСАЛ</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">815,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="120">
+		<param name="Категория">Пластификатор</param>
+
+		<name>Бетон-контакт Универсал 6 кг/4,5 л</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">630,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="121">
+		<param name="Категория">Пластификатор</param>
+
+		<name>Бетон-контакт Универсал 12 кг/9 л</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">1180,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="122">
+		<param name="Категория">Профиль</param>
+
+		<name>Профиль CD 27*60  3м</name>
+
+		<param name="Цена (опт)">79</param>
+
+		<param name="Цена (розн)">84</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="123">
+		<param name="Категория">Профиль</param>
+
+		<name>Профиль UD  27*28 3 м</name>
+
+		<param name="Цена (опт)">48</param>
+
+		<param name="Цена (розн)">51</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="124">
+		<param name="Категория">Профиль</param>
+
+		<name>Профиль CW 50*50  3м</name>
+
+		<param name="Цена (опт)">109</param>
+
+		<param name="Цена (розн)">115</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="125">
+		<param name="Категория">Профиль</param>
+
+		<name>Профиль CW 75*50  3м</name>
+
+		<param name="Цена (опт)">127</param>
+
+		<param name="Цена (розн)">133</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="126">
+		<param name="Категория">Профиль</param>
+
+		<name>Профиль CW 100*50  3м</name>
+
+		<param name="Цена (опт)">144</param>
+
+		<param name="Цена (розн)">151</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="127">
+		<param name="Категория">Профиль</param>
+
+		<name>Профиль UW 50*40  3м</name>
+
+		<param name="Цена (опт)">84</param>
+
+		<param name="Цена (розн)">88</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="128">
+		<param name="Категория">Профиль</param>
+
+		<name>Профиль UW 75*40  3м</name>
+
+		<param name="Цена (опт)">104</param>
+
+		<param name="Цена (розн)">108</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="129">
+		<param name="Категория">Профиль</param>
+
+		<name>Профиль UW 100*40  3м</name>
+
+		<param name="Цена (опт)">120</param>
+
+		<param name="Цена (розн)">125</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="130">
+		<param name="Категория">Профиль</param>
+
+		<name>Маяк под штукатурку 0,6 мм      3м</name>
+
+		<param name="Цена (опт)">21</param>
+
+		<param name="Цена (розн)">24</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="131">
+		<param name="Категория">Профиль</param>
+
+		<name>Маяк под штукатурку 10 мм      3м</name>
+
+		<param name="Цена (опт)">24</param>
+
+		<param name="Цена (розн)">27</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="132">
+		<param name="Категория">Профиль</param>
+
+		<name>Уголок металлический  перфор.     3 м </name>
+
+		<param name="Цена (опт)">27</param>
+
+		<param name="Цена (розн)">29</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="133">
+		<param name="Категория">Профиль</param>
+
+		<name>Уголок ПВХ 3 м </name>
+
+		<param name="Цена (опт)">21</param>
+
+		<param name="Цена (розн)">24</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="134">
+		<param name="Категория">Профиль</param>
+
+		<name>Уголок ПВХ 3 м  с сеткой</name>
+
+		<param name="Цена (опт)">51</param>
+
+		<param name="Цена (розн)">54</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="135">
+		<param name="Категория">Профиль</param>
+
+		<name>Подвес</name>
+
+		<param name="Цена (опт)">5</param>
+
+		<param name="Цена (розн)">6</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="136">
+		<param name="Категория">Профиль</param>
+
+		<name>Краб</name>
+
+		<param name="Цена (опт)">11</param>
+
+		<param name="Цена (розн)">12</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="137">
+		<param name="Категория">Грунтовки</param>
+
+		<name>Грунт Лакра бетон-контакт 10л</name>
+
+		<param name="Цена (опт)">930</param>
+
+		<param name="Цена (розн)">990</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="138">
+		<param name="Категория">Грунтовки</param>
+
+		<name>Грунт Лакра 10л</name>
+
+		<param name="Цена (опт)">360</param>
+
+		<param name="Цена (розн)">385</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="139">
+		<param name="Категория">Грунтовки</param>
+
+		<name>Ceresit СТ-16  10л</name>
+
+		<param name="Цена (опт)">1020</param>
+
+		<param name="Цена (розн)">1070</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="140">
+		<param name="Категория">Грунтовки</param>
+
+		<name>Ceresit CT-17  1 л</name>
+
+		<param name="Цена (опт)">95</param>
+
+		<param name="Цена (розн)">105</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="141">
+		<param name="Категория">Грунтовки</param>
+
+		<name>Ceresit СТ-17  5л</name>
+
+		<param name="Цена (опт)">310</param>
+
+		<param name="Цена (розн)">330</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="142">
+		<param name="Категория">Грунтовки</param>
+
+		<name>Ceresit СТ-17  10л</name>
+
+		<param name="Цена (опт)">580</param>
+
+		<param name="Цена (розн)">610</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="143">
+		<param name="Категория">Грунтовки</param>
+
+		<name>Ceresit СТ-19  бетонконтакт 15 л</name>
+
+		<param name="Цена (опт)">920</param>
+
+		<param name="Цена (розн)">960</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="144">
+		<param name="Категория">Грунтовки</param>
+
+		<name>Грунт Акцент универсальный  5л</name>
+
+		<param name="Цена (опт)">210</param>
+
+		<param name="Цена (розн)">245</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="145">
+		<param name="Категория">Грунтовки</param>
+
+		<name>Грунт Акцент универсальный  10л</name>
+
+		<param name="Цена (опт)">420</param>
+
+		<param name="Цена (розн)">460</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="146">
+		<param name="Категория">Грунтовки</param>
+
+		<name>Старатели Гидроизоляция  Акващит W6 25кг</name>
+
+		<param name="Цена (опт)">675</param>
+
+		<param name="Цена (розн)">720</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="147">
+		<param name="Категория">Грунтовки</param>
+
+		<name>ГРУНТОВКА укрепляющая 5 л/5 кг</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">2512,5</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="148">
+		<param name="Категория">Грунтовки</param>
+
+		<name>EURO Primer 1:3 концентрат грунт    акриловый 10 л. ЦК</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">1341</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="149">
+		<param name="Категория">EUROGIPS</param>
+
+		<name>Старт Изо 25кг</name>
+
+		<param name="Цена (опт)">310</param>
+
+		<param name="Цена (розн)">330</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="150">
+		<param name="Категория">EUROGIPS</param>
+
+		<name>Финиш Сатен 25кг</name>
+
+		<param name="Цена (опт)">380</param>
+
+		<param name="Цена (розн)">400</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="151">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Сетка     5*5  145 гр/м2  (50 м2)</name>
+
+		<param name="Цена (опт)">1450</param>
+
+		<param name="Цена (розн)">1500</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="152">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Сетка     5*5  160 гр/м2  (50 м2)</name>
+
+		<param name="Цена (опт)">1500</param>
+
+		<param name="Цена (розн)">1550</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="153">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>BPS D Гидро-пароизоляция    универсальная  1,5м   70м2</name>
+
+		<param name="Цена (опт)">990</param>
+
+		<param name="Цена (розн)">1100</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="154">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>BPS B     Пленка пароизоляция  1,6м   70м2</name>
+
+		<param name="Цена (опт)">550</param>
+
+		<param name="Цена (розн)">580</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="155">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Стеклохолст  X-Glass 40г/кв.м  50м2 </name>
+
+		<param name="Цена (опт)">495</param>
+
+		<param name="Цена (розн)">545</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="156">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Серпянка 20 м</name>
+
+		<param name="Цена (опт)">29</param>
+
+		<param name="Цена (розн)">32</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="157">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Серпянка 45 м</name>
+
+		<param name="Цена (опт)">47</param>
+
+		<param name="Цена (розн)">51</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="158">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Серпянка 90 м</name>
+
+		<param name="Цена (опт)">97</param>
+
+		<param name="Цена (розн)">107</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="159">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Саморез для профиля 3,5 *11 (1000)</name>
+
+		<param name="Цена (опт)">260</param>
+
+		<param name="Цена (розн)">280</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="160">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Саморез  25мм (1000) дер</name>
+
+		<param name="Цена (опт)">263</param>
+
+		<param name="Цена (розн)">301</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="161">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Саморез  35мм (500)     дер</name>
+
+		<param name="Цена (опт)">200</param>
+
+		<param name="Цена (розн)">207</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="162">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Саморез 45мм  (500) дер</name>
+
+		<param name="Цена (опт)">220</param>
+
+		<param name="Цена (розн)">253</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="163">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Саморез 51мм  (500)     дер</name>
+
+		<param name="Цена (опт)">170</param>
+
+		<param name="Цена (розн)">180</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="164">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Сасорез 25мм  (250) мет</name>
+
+		<param name="Цена (опт)">66</param>
+
+		<param name="Цена (розн)">76</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="165">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Саморез 35мм  (500)</name>
+
+		<param name="Цена (опт)">180</param>
+
+		<param name="Цена (розн)">207</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="166">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Саморез 45мм( 500) мет</name>
+
+		<param name="Цена (опт)">220</param>
+
+		<param name="Цена (розн)">253</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="167">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Дюбель-гвоздь   6*40      (200)</name>
+
+		<param name="Цена (опт)">110</param>
+
+		<param name="Цена (розн)">122</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="168">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Дюбель-гвоздь   6*60      (200)</name>
+
+		<param name="Цена (опт)">190</param>
+
+		<param name="Цена (розн)">210</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="169">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Дюбель-гвоздь  6*80     (200) </name>
+
+		<param name="Цена (опт)">132</param>
+
+		<param name="Цена (розн)">145</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="170">
+		<param name="Категория">Саморезы    Сетки</param>
+
+		<name>Дюбель для минваты 1 шт</name>
+
+		<param name="Цена (опт)">1,97</param>
+
+		<param name="Цена (розн)">2,17</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="171">
+		<param name="Категория">Защита древесины</param>
+
+		<name>АНТИСЕПТИК Биотекс Универсал в ассорт,    0,8 л</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">8580,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="172">
+		<param name="Категория">Защита древесины</param>
+
+		<name>АНТИСЕПТИК Биотекс Универсал в ассорт,    2,7  л</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">18760,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="173">
+		<param name="Категория">Защита древесины</param>
+
+		<name>АНТИСЕПТИК Биотекс Универсал в ассорт,    9 л</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">31200,00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="174">
+		<param name="Категория">Защита древесины</param>
+
+		<name>Биозащита</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)"> </param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="175">
+		<param name="Категория">Защита древесины</param>
+
+		<name>Биозащита</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)"> </param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="176">
+		<param name="Категория">Доска</param>
+
+		<name>Доска  25*100     6м</name>
+
+		<param name="Цена (опт)">165</param>
+
+		<param name="Цена (розн)">172,5</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="177">
+		<param name="Категория">Доска</param>
+
+		<name>Доска     25*150    6м</name>
+
+		<param name="Цена (опт)">247,5</param>
+
+		<param name="Цена (розн)">258,75</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="178">
+		<param name="Категория">Доска</param>
+
+		<name>Брус     50*50    6м</name>
+
+		<param name="Цена (опт)">165</param>
+
+		<param name="Цена (розн)">172,5</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="179">
+		<param name="Категория">Доска</param>
+
+		<name>Брус     50*100    6м</name>
+
+		<param name="Цена (опт)">330</param>
+
+		<param name="Цена (розн)">345</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="180">
+		<param name="Категория">Доска</param>
+
+		<name>Брус     50*150  6м</name>
+
+		<param name="Цена (опт)">495</param>
+
+		<param name="Цена (розн)">517,5</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="181">
+		<param name="Категория">Доска</param>
+
+		<name>Брус 50*200  6м</name>
+
+		<param name="Цена (опт)">660</param>
+
+		<param name="Цена (розн)">690</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="182">
+		<param name="Категория">Доска</param>
+
+		<name>Брус     100*100  6м</name>
+
+		<param name="Цена (опт)">660</param>
+
+		<param name="Цена (розн)">690</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="183">
+		<param name="Категория">Доска</param>
+
+		<name>Брус     150*150  6м</name>
+
+		<param name="Цена (опт)">1485</param>
+
+		<param name="Цена (розн)">1552,5</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="184">
+		<param name="Категория">Уголь      Дрова</param>
+
+		<name>Уголь антрацит ОРЕХ  (ОМ) тонна</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">11000</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="185">
+		<param name="Категория">Уголь      Дрова</param>
+
+		<name>Дрова пиленые (дуб)  скл/м</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">3700</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+<offer id="186">
+		<param name="Категория">Уголь      Дрова</param>
+
+		<name>Брикеты дубовые  10кг/уп</name>
+
+		<param name="Цена (опт)"> </param>
+
+		<param name="Цена (розн)">150</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>https://www.stroimaterialy-sevastopol.ru/price-stroimaterialy-sevastopol-krym/</url>
+
+     	</offer>
+</offers>
+
+		</shop>
+
+		</yml_catalog>
