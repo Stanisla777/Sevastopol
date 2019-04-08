@@ -1,0 +1,1623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<yml_catalog date="2019-04-06 16:00">
+		<shop>
+		<name>http://ктз.com/</name>
+		<company>http://ктз.com/</company>
+		<url>http://ктз.com/</url>
+		<currencies>
+		  <currency id="RUB" rate="1"/>
+		</currencies>
+		<offers>
+<offer id="1">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 10,0  Ø 110</name>
+
+		<param name="Цена">621.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-10,0-ø-110</url>
+
+     	</offer>
+<offer id="2">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 11,4  Ø 125</name>
+
+		<param name="Цена">822.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-11,4-ø-125</url>
+
+     	</offer>
+<offer id="3">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 12,7  Ø 140</name>
+
+		<param name="Цена">1024.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-12,7-ø-140</url>
+
+     	</offer>
+<offer id="4">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 14,6  Ø 160</name>
+
+		<param name="Цена">1318.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-14,6-ø-160</url>
+
+     	</offer>
+<offer id="5">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 16,4  Ø 180</name>
+
+		<param name="Цена">1699.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-16,4-ø-180</url>
+
+     	</offer>
+<offer id="6">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 18,2  Ø 200</name>
+
+		<param name="Цена">2096.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-18,2-ø-200</url>
+
+     	</offer>
+<offer id="7">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 2,0  Ø 20</name>
+
+		<param name="Цена">22.91</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-2,0-ø-20</url>
+
+     	</offer>
+<offer id="8">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 2,3  Ø 25</name>
+
+		<param name="Цена">34.05</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-2,3-ø-25</url>
+
+     	</offer>
+<offer id="9">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 20,5  Ø 225</name>
+
+		<param name="Цена">2608.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-20,5-ø-225</url>
+
+     	</offer>
+<offer id="10">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 22,7  Ø 250</name>
+
+		<param name="Цена">3264.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-22,7-ø-250</url>
+
+     	</offer>
+<offer id="11">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 25,4  Ø 280</name>
+
+		<param name="Цена">4090.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-25,4-ø-280</url>
+
+     	</offer>
+<offer id="12">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 28,6  Ø 315</name>
+
+		<param name="Цена">5077.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-28,6-ø-315</url>
+
+     	</offer>
+<offer id="13">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 3,0  Ø 32</name>
+
+		<param name="Цена">55.80</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-3,0-ø-32</url>
+
+     	</offer>
+<offer id="14">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 3,7  Ø 40</name>
+
+		<param name="Цена">86.02</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-3,7-ø-40</url>
+
+     	</offer>
+<offer id="15">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 32,2  Ø 355</name>
+
+		<param name="Цена">6504.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-32,2-ø-355</url>
+
+     	</offer>
+<offer id="16">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 36,3 Ø 400</name>
+
+		<param name="Цена">8177.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-36,3-ø-400</url>
+
+     	</offer>
+<offer id="17">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 4,6  Ø 50</name>
+
+		<param name="Цена">133.57</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-4,6-ø-50</url>
+
+     	</offer>
+<offer id="18">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 40,9  Ø 450</name>
+
+		<param name="Цена">10454.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-40,9-ø-450</url>
+
+     	</offer>
+<offer id="19">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 45,4  Ø 500</name>
+
+		<param name="Цена">12779.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-45,4-ø-500</url>
+
+     	</offer>
+<offer id="20">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 5,8  Ø 63</name>
+
+		<param name="Цена">211.53</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-5,8-ø-63</url>
+
+     	</offer>
+<offer id="21">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 50,8  Ø 560</name>
+
+		<param name="Цена">16159.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-50,8-ø-560</url>
+
+     	</offer>
+<offer id="22">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 57,2  Ø 630</name>
+
+		<param name="Цена">20751.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-57,2-ø-630</url>
+
+     	</offer>
+<offer id="23">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 6,8  Ø 75</name>
+
+		<param name="Цена">295.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-6,8-ø-75</url>
+
+     	</offer>
+<offer id="24">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 11 16 атм Толщина стенки 8,2  Ø 90</name>
+
+		<param name="Цена">428.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-11-16-атм-толщина-стенки-8,2-ø-90</url>
+
+     	</offer>
+<offer id="25">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 10,3 Ø 140</name>
+
+		<param name="Цена">851.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-10,3-ø-140</url>
+
+     	</offer>
+<offer id="26">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 11,8 Ø 160</name>
+
+		<param name="Цена">1087.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-11,8-ø-160</url>
+
+     	</offer>
+<offer id="27">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 13,3 Ø 180</name>
+
+		<param name="Цена">1407.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-13,3-ø-180</url>
+
+     	</offer>
+<offer id="28">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 14,7 Ø 200</name>
+
+		<param name="Цена">1725.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-14,7-ø-200</url>
+
+     	</offer>
+<offer id="29">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 16,6 Ø 225</name>
+
+		<param name="Цена">2153.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-16,6-ø-225</url>
+
+     	</offer>
+<offer id="30">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 18,4 Ø 250</name>
+
+		<param name="Цена">2700.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-18,4-ø-250</url>
+
+     	</offer>
+<offer id="31">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 2,0 Ø 25</name>
+
+		<param name="Цена">29.23</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-2,0-ø-25</url>
+
+     	</offer>
+<offer id="32">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 2,4 Ø 32</name>
+
+		<param name="Цена">45.23</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-2,4-ø-32</url>
+
+     	</offer>
+<offer id="33">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 20,6 Ø 280</name>
+
+		<param name="Цена">3385.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-20,6-ø-280</url>
+
+     	</offer>
+<offer id="34">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 23,2 Ø 315</name>
+
+		<param name="Цена">4207.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-23,2-ø-315</url>
+
+     	</offer>
+<offer id="35">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 26,1 Ø 355</name>
+
+		<param name="Цена">5387.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-26,1-ø-355</url>
+
+     	</offer>
+<offer id="36">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 29,4 Ø 400</name>
+
+		<param name="Цена">6755.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-29,4-ø-400</url>
+
+     	</offer>
+<offer id="37">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 3,0 Ø 40</name>
+
+		<param name="Цена">69.72</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-3,0-ø-40</url>
+
+     	</offer>
+<offer id="38">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 3,7 Ø 50</name>
+
+		<param name="Цена">107.64</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-3,7-ø-50</url>
+
+     	</offer>
+<offer id="39">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 33,1 Ø 450</name>
+
+		<param name="Цена">8638.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-33,1-ø-450</url>
+
+     	</offer>
+<offer id="40">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 36,8 Ø 500</name>
+
+		<param name="Цена">10567.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-36,8-ø-500</url>
+
+     	</offer>
+<offer id="41">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 4,7 Ø 63</name>
+
+		<param name="Цена">171.64</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-4,7-ø-63</url>
+
+     	</offer>
+<offer id="42">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 41,2 Ø 560</name>
+
+		<param name="Цена">13386.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-41,2-ø-560</url>
+
+     	</offer>
+<offer id="43">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 46,3 Ø 630</name>
+
+		<param name="Цена">16749.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-46,3-ø-630</url>
+
+     	</offer>
+<offer id="44">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 5,6 Ø 75</name>
+
+		<param name="Цена">248.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-5,6-ø-75</url>
+
+     	</offer>
+<offer id="45">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 6,7 Ø 90</name>
+
+		<param name="Цена">348.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-6,7-ø-90</url>
+
+     	</offer>
+<offer id="46">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 8,1 Ø 110</name>
+
+		<param name="Цена">516.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-8,1-ø-110</url>
+
+     	</offer>
+<offer id="47">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 13,6 12,5 атм Толщина стенки 9,2 Ø 125</name>
+
+		<param name="Цена">679.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-13,6-12,5-атм-толщина-стенки-9,2-ø-125</url>
+
+     	</offer>
+<offer id="48">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 10,7 Ø 180</name>
+
+		<param name="Цена">1151.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-10,7-ø-180</url>
+
+     	</offer>
+<offer id="49">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 11,9 Ø 200</name>
+
+		<param name="Цена">1419.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-11,9-ø-200</url>
+
+     	</offer>
+<offer id="50">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 13,4 Ø 225</name>
+
+		<param name="Цена">1766.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-13,4-ø-225</url>
+
+     	</offer>
+<offer id="51">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 14,8 Ø 250</name>
+
+		<param name="Цена">2217.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-14,8-ø-250</url>
+
+     	</offer>
+<offer id="52">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 16,6 Ø 280</name>
+
+		<param name="Цена">2781.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-16,6-ø-280</url>
+
+     	</offer>
+<offer id="53">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 18,7 Ø 315</name>
+
+		<param name="Цена">3437.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-18,7-ø-315</url>
+
+     	</offer>
+<offer id="54">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 2,0 Ø 32</name>
+
+		<param name="Цена">38.12</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-2,0-ø-32</url>
+
+     	</offer>
+<offer id="55">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 2,4 Ø 40</name>
+
+		<param name="Цена">57.67</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-2,4-ø-40</url>
+
+     	</offer>
+<offer id="56">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 21,1 Ø 355</name>
+
+		<param name="Цена">4429.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-21,1-ø-355</url>
+
+     	</offer>
+<offer id="57">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 23,7 Ø 400</name>
+
+		<param name="Цена">5531.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-23,7-ø-400</url>
+
+     	</offer>
+<offer id="58">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 26,7 Ø 450</name>
+
+		<param name="Цена">7082.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-26,7-ø-450</url>
+
+     	</offer>
+<offer id="59">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 29,7 Ø 500</name>
+
+		<param name="Цена">8671.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-29,7-ø-500</url>
+
+     	</offer>
+<offer id="60">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 3,0 Ø 50</name>
+
+		<param name="Цена">88.68</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-3,0-ø-50</url>
+
+     	</offer>
+<offer id="61">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 3,8 Ø 63</name>
+
+		<param name="Цена">141.22</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-3,8-ø-63</url>
+
+     	</offer>
+<offer id="62">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 33,2 Ø 560</name>
+
+		<param name="Цена">10972.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-33,2-ø-560</url>
+
+     	</offer>
+<offer id="63">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 37,4 Ø 630</name>
+
+		<param name="Цена">13747.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-37,4-ø-630</url>
+
+     	</offer>
+<offer id="64">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 8,3 Ø 140</name>
+
+		<param name="Цена">698.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-8,3-ø-140</url>
+
+     	</offer>
+<offer id="65">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 17, 10 атм Толщина стенки 9,5 Ø 160</name>
+
+		<param name="Цена">891.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-17,-10-атм-толщина-стенки-9,5-ø-160</url>
+
+     	</offer>
+<offer id="66">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 21, 8 атм атм Толщина стенки 10,8 Ø 225</name>
+
+		<param name="Цена">1440.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-21,-8-атм-атм-толщина-стенки-10,8-ø-225</url>
+
+     	</offer>
+<offer id="67">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 21, 8 атм атм Толщина стенки 11,9 Ø 250</name>
+
+		<param name="Цена">1798.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-21,-8-атм-атм-толщина-стенки-11,9-ø-250</url>
+
+     	</offer>
+<offer id="68">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 21, 8 атм атм Толщина стенки 13,4 Ø 280</name>
+
+		<param name="Цена">2277.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-21,-8-атм-атм-толщина-стенки-13,4-ø-280</url>
+
+     	</offer>
+<offer id="69">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 21, 8 атм атм Толщина стенки 15,0 Ø 315</name>
+
+		<param name="Цена">2805.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-21,-8-атм-атм-толщина-стенки-15,0-ø-315</url>
+
+     	</offer>
+<offer id="70">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 21, 8 атм атм Толщина стенки 16,9 Ø 355</name>
+
+		<param name="Цена">3591.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-21,-8-атм-атм-толщина-стенки-16,9-ø-355</url>
+
+     	</offer>
+<offer id="71">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 21, 8 атм атм Толщина стенки 19,1 Ø 400</name>
+
+		<param name="Цена">4523.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-21,-8-атм-атм-толщина-стенки-19,1-ø-400</url>
+
+     	</offer>
+<offer id="72">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 21, 8 атм атм Толщина стенки 21,5 Ø 450</name>
+
+		<param name="Цена">5786.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-21,-8-атм-атм-толщина-стенки-21,5-ø-450</url>
+
+     	</offer>
+<offer id="73">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 21, 8 атм атм Толщина стенки 23,9 Ø 500</name>
+
+		<param name="Цена">7071.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-21,-8-атм-атм-толщина-стенки-23,9-ø-500</url>
+
+     	</offer>
+<offer id="74">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 21, 8 атм атм Толщина стенки 26,7 Ø 560</name>
+
+		<param name="Цена">8937.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-21,-8-атм-атм-толщина-стенки-26,7-ø-560</url>
+
+     	</offer>
+<offer id="75">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 21, 8 атм атм Толщина стенки 30,0 Ø 630</name>
+
+		<param name="Цена">11160.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-21,-8-атм-атм-толщина-стенки-30,0-ø-630</url>
+
+     	</offer>
+<offer id="76">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 21, 8 атм атм Толщина стенки 4,3 Ø 90</name>
+
+		<param name="Цена">234.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-21,-8-атм-атм-толщина-стенки-4,3-ø-90</url>
+
+     	</offer>
+<offer id="77">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 21, 8 атм атм Толщина стенки 5,3 Ø 110</name>
+
+		<param name="Цена">350.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-21,-8-атм-атм-толщина-стенки-5,3-ø-110</url>
+
+     	</offer>
+<offer id="78">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 21, 8 атм атм Толщина стенки 6,0 Ø 125</name>
+
+		<param name="Цена">456.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-21,-8-атм-атм-толщина-стенки-6,0-ø-125</url>
+
+     	</offer>
+<offer id="79">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 21, 8 атм атм Толщина стенки 6,7 Ø 140</name>
+
+		<param name="Цена">571.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-21,-8-атм-атм-толщина-стенки-6,7-ø-140</url>
+
+     	</offer>
+<offer id="80">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 21, 8 атм атм Толщина стенки 7,7 Ø 160</name>
+
+		<param name="Цена">733.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-21,-8-атм-атм-толщина-стенки-7,7-ø-160</url>
+
+     	</offer>
+<offer id="81">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 21, 8 атм атм Толщина стенки 8,6 Ø 180</name>
+
+		<param name="Цена">939.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-21,-8-атм-атм-толщина-стенки-8,6-ø-180</url>
+
+     	</offer>
+<offer id="82">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 21, 8 атм атм Толщина стенки 9,6 Ø 200</name>
+
+		<param name="Цена">1163.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-21,-8-атм-атм-толщина-стенки-9,6-ø-200</url>
+
+     	</offer>
+<offer id="83">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 26, 6 атм атм Толщина стенки 10,7 Ø 280</name>
+
+		<param name="Цена">1832.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-26,-6-атм-атм-толщина-стенки-10,7-ø-280</url>
+
+     	</offer>
+<offer id="84">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 26, 6 атм атм Толщина стенки 12,1 Ø 315</name>
+
+		<param name="Цена">2292.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-26,-6-атм-атм-толщина-стенки-12,1-ø-315</url>
+
+     	</offer>
+<offer id="85">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 26, 6 атм атм Толщина стенки 13,6 Ø 355</name>
+
+		<param name="Цена">2913.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-26,-6-атм-атм-толщина-стенки-13,6-ø-355</url>
+
+     	</offer>
+<offer id="86">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 26, 6 атм атм Толщина стенки 15,3 Ø 400</name>
+
+		<param name="Цена">3674.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-26,-6-атм-атм-толщина-стенки-15,3-ø-400</url>
+
+     	</offer>
+<offer id="87">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 26, 6 атм атм Толщина стенки 17,2 Ø 450</name>
+
+		<param name="Цена">4688.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-26,-6-атм-атм-толщина-стенки-17,2-ø-450</url>
+
+     	</offer>
+<offer id="88">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 26, 6 атм атм Толщина стенки 19,1 Ø 500</name>
+
+		<param name="Цена">5728.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-26,-6-атм-атм-толщина-стенки-19,1-ø-500</url>
+
+     	</offer>
+<offer id="89">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 26, 6 атм атм Толщина стенки 21,4 Ø 560</name>
+
+		<param name="Цена">7242.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-26,-6-атм-атм-толщина-стенки-21,4-ø-560</url>
+
+     	</offer>
+<offer id="90">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 26, 6 атм атм Толщина стенки 24,1 Ø 630</name>
+
+		<param name="Цена">9086.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-26,-6-атм-атм-толщина-стенки-24,1-ø-630</url>
+
+     	</offer>
+<offer id="91">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 26, 6 атм атм Толщина стенки 4,8 Ø 125</name>
+
+		<param name="Цена">369.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-26,-6-атм-атм-толщина-стенки-4,8-ø-125</url>
+
+     	</offer>
+<offer id="92">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 26, 6 атм атм Толщина стенки 5,4 Ø 140</name>
+
+		<param name="Цена">466.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-26,-6-атм-атм-толщина-стенки-5,4-ø-140</url>
+
+     	</offer>
+<offer id="93">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 26, 6 атм атм Толщина стенки 6,2 Ø 160</name>
+
+		<param name="Цена">599.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-26,-6-атм-атм-толщина-стенки-6,2-ø-160</url>
+
+     	</offer>
+<offer id="94">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 26, 6 атм атм Толщина стенки 6,9 Ø 180</name>
+
+		<param name="Цена">762.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-26,-6-атм-атм-толщина-стенки-6,9-ø-180</url>
+
+     	</offer>
+<offer id="95">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 26, 6 атм атм Толщина стенки 7,7 Ø 200</name>
+
+		<param name="Цена">943.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-26,-6-атм-атм-толщина-стенки-7,7-ø-200</url>
+
+     	</offer>
+<offer id="96">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 26, 6 атм атм Толщина стенки 8,6 Ø 225</name>
+
+		<param name="Цена">1162.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-26,-6-атм-атм-толщина-стенки-8,6-ø-225</url>
+
+     	</offer>
+<offer id="97">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 26, 6 атм атм Толщина стенки 9,6 Ø 250</name>
+
+		<param name="Цена">1469.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-26,-6-атм-атм-толщина-стенки-9,6-ø-250</url>
+
+     	</offer>
+<offer id="98">
+		<param name="Категория">Трубы для воды</param>
+
+		<name>Труба вода SDR 26, 6 атм Толщина стенки 4,2 Ø 110</name>
+
+		<param name="Цена">281.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-воды/труба-вода-sdr-26,-6-атмосфер-толщина-стенки-4,2-ø-110</url>
+
+     	</offer>
+<offer id="99">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 10,0  Ø 110</name>
+
+		<param name="Цена">630.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-10,0-ø-110</url>
+
+     	</offer>
+<offer id="100">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 11,4  Ø 125</name>
+
+		<param name="Цена">834.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-11,4-ø-125</url>
+
+     	</offer>
+<offer id="101">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 12,7  Ø 140</name>
+
+		<param name="Цена">1038.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-12,7-ø-140</url>
+
+     	</offer>
+<offer id="102">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 14,6  Ø 160</name>
+
+		<param name="Цена">1337.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-14,6-ø-160</url>
+
+     	</offer>
+<offer id="103">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 16,4  Ø 180</name>
+
+		<param name="Цена">1723.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-16,4-ø-180</url>
+
+     	</offer>
+<offer id="104">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 18,2  Ø 200</name>
+
+		<param name="Цена">2125.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-18,2-ø-200</url>
+
+     	</offer>
+<offer id="105">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 2,3  Ø 25</name>
+
+		<param name="Цена">34.53</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-2,3-ø-25</url>
+
+     	</offer>
+<offer id="106">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 20,5  Ø 225</name>
+
+		<param name="Цена">2645.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-20,5-ø-225</url>
+
+     	</offer>
+<offer id="107">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 22,7  Ø 250</name>
+
+		<param name="Цена">3311.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-22,7-ø-250</url>
+
+     	</offer>
+<offer id="108">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 25,4  Ø 280</name>
+
+		<param name="Цена">4148.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-25,4-ø-280</url>
+
+     	</offer>
+<offer id="109">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 28,6  Ø 315</name>
+
+		<param name="Цена">5149.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-28,6-ø-315</url>
+
+     	</offer>
+<offer id="110">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 3,0  Ø 32</name>
+
+		<param name="Цена">56.04</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-3,0-ø-32</url>
+
+     	</offer>
+<offer id="111">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 3,7  Ø 40</name>
+
+		<param name="Цена">87.25</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-3,7-ø-40</url>
+
+     	</offer>
+<offer id="112">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 32,2  Ø 355</name>
+
+		<param name="Цена">6662.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-32,2-ø-355</url>
+
+     	</offer>
+<offer id="113">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 36,3 Ø 400</name>
+
+		<param name="Цена">8294.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-36,3-ø-400</url>
+
+     	</offer>
+<offer id="114">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 4,6  Ø 50</name>
+
+		<param name="Цена">135.47</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-4,6-ø-50</url>
+
+     	</offer>
+<offer id="115">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 5,8  Ø 63</name>
+
+		<param name="Цена">212.44</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-5,8-ø-63</url>
+
+     	</offer>
+<offer id="116">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 6,8  Ø 75</name>
+
+		<param name="Цена">299.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-6,8-ø-75</url>
+
+     	</offer>
+<offer id="117">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 11 до 1,0 МПа Толщина стенки 8,2  Ø 90</name>
+
+		<param name="Цена">425.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-11-до-1,0-мпа-толщина-стенки-8,2-ø-90</url>
+
+     	</offer>
+<offer id="118">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 17,6 до 0,6 МПа Толщина стенки 10,3  Ø 180</name>
+
+		<param name="Цена">1118.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-17,6-до-0,6-мпа-толщина-стенки-10,3-ø-180</url>
+
+     	</offer>
+<offer id="119">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 17,6 до 0,6 МПа Толщина стенки 11,4  Ø 200</name>
+
+		<param name="Цена">1386.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-17,6-до-0,6-мпа-толщина-стенки-11,4-ø-200</url>
+
+     	</offer>
+<offer id="120">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 17,6 до 0,6 МПа Толщина стенки 12,8 Ø 225</name>
+
+		<param name="Цена">1713.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-17,6-до-0,6-мпа-толщина-стенки-12,8-ø-225</url>
+
+     	</offer>
+<offer id="121">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 17,6 до 0,6 МПа Толщина стенки 14,2  Ø 250</name>
+
+		<param name="Цена">2166.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-17,6-до-0,6-мпа-толщина-стенки-14,2-ø-250</url>
+
+     	</offer>
+<offer id="122">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 17,6 до 0,6 МПа Толщина стенки 15,9  Ø 280</name>
+
+		<param name="Цена">2698.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-17,6-до-0,6-мпа-толщина-стенки-15,9-ø-280</url>
+
+     	</offer>
+<offer id="123">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 17,6 до 0,6 МПа Толщина стенки 17,9  Ø 315</name>
+
+		<param name="Цена">3346.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-17,6-до-0,6-мпа-толщина-стенки-17,9-ø-315</url>
+
+     	</offer>
+<offer id="124">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 17,6 до 0,6 МПа Толщина стенки 3,6  Ø 63</name>
+
+		<param name="Цена">137.98</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-17,6-до-0,6-мпа-толщина-стенки-3,6-ø-63</url>
+
+     	</offer>
+<offer id="125">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 17,6 до 0,6 МПа Толщина стенки 4,3  Ø 75</name>
+
+		<param name="Цена">199.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-17,6-до-0,6-мпа-толщина-стенки-4,3-ø-75</url>
+
+     	</offer>
+<offer id="126">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 17,6 до 0,6 МПа Толщина стенки 5,2  Ø 90</name>
+
+		<param name="Цена">281.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-17,6-до-0,6-мпа-толщина-стенки-5,2-ø-90</url>
+
+     	</offer>
+<offer id="127">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 17,6 до 0,6 МПа Толщина стенки 6,3  Ø 110</name>
+
+		<param name="Цена">415.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-17,6-до-0,6-мпа-толщина-стенки-6,3-ø-110</url>
+
+     	</offer>
+<offer id="128">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 17,6 до 0,6 МПа Толщина стенки 7,1  Ø 125</name>
+
+		<param name="Цена">544.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-17,6-до-0,6-мпа-толщина-стенки-7,1-ø-125</url>
+
+     	</offer>
+<offer id="129">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 17,6 до 0,6 МПа Толщина стенки 8  Ø 140</name>
+
+		<param name="Цена">685.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-17,6-до-0,6-мпа-толщина-стенки-8-ø-140</url>
+
+     	</offer>
+<offer id="130">
+		<param name="Категория">Трубы для газопровода</param>
+
+		<name>Труба газ SDR 17,6 до 0,6 МПа Толщина стенки 9,1  Ø 160</name>
+
+		<param name="Цена">872.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/трубы-для-газопровода/труба-газ-sdr-17,6-до-0,6-мпа-толщина-стенки-9,1-ø-160</url>
+
+     	</offer>
+<offer id="131">
+		<param name="Категория">Фитинги для труб</param>
+
+		<name>Фитинги для труб ПНД</name>
+
+		<param name="Цена">60.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/фитинги-для-труб/фитинги-для-труб-пнд</url>
+
+     	</offer>
+<offer id="132">
+		<param name="Категория">Фитинги для труб</param>
+
+		<name>Фитинги для труб ПНД</name>
+
+		<param name="Цена">60.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/фитинги-для-труб/фитинги-для-труб-пнд1</url>
+
+     	</offer>
+<offer id="133">
+		<param name="Категория">Фитинги для труб</param>
+
+		<name>Фитинги для труб ПНД</name>
+
+		<param name="Цена">60.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/фитинги-для-труб/фитинги-для-труб-пнд2</url>
+
+     	</offer>
+<offer id="134">
+		<param name="Категория">Фитинги для труб</param>
+
+		<name>Фитинги для труб ПНД</name>
+
+		<param name="Цена">60.00</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://www.ктз.com/фитинги-для-труб/фитинги-для-труб-пнд3</url>
+
+     	</offer>
+</offers>
+
+		</shop>
+
+		</yml_catalog>

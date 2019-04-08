@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<yml_catalog date="2019-04-07 15:58">
+		<shop>
+		<name>http://izvestnyak.org</name>
+		<company>http://izvestnyak.org</company>
+		<url>http://izvestnyak.org</url>
+		<currencies>
+		  <currency id="RUB" rate="1"/>
+		</currencies>
+		<offers>
+<offer id="1">
+		<param name="Категория">щебень</param>
+
+		<name>щебень 70*150</name>
+
+		<param name="Цена">70*150</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="2">
+		<param name="Категория">щебень</param>
+
+		<name>щебень 40*70</name>
+
+		<param name="Цена">40*70</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="3">
+		<param name="Категория">щебень</param>
+
+		<name>щебень 20*40</name>
+
+		<param name="Цена">20*40</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="4">
+		<param name="Категория">щебень</param>
+
+		<name>щебень вторичного дробления 5*20</name>
+
+		<param name="Цена">5*20</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="5">
+		<param name="Категория">щебень</param>
+
+		<name>щебень вторичного дробления 10*20</name>
+
+		<param name="Цена">10*20</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="6">
+		<param name="Категория">щебень</param>
+
+		<name>щебень вторичного дробления 5*10</name>
+
+		<param name="Цена">5*10</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="7">
+		<param name="Категория">щебень</param>
+
+		<name>щебень первичного дробления 5*20</name>
+
+		<param name="Цена">5*20</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="8">
+		<param name="Категория">щебень</param>
+
+		<name>щебень первичного дробления 5*10</name>
+
+		<param name="Цена">5*10</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="9">
+		<param name="Категория">песок</param>
+
+		<name>песок из отсева дробления (ГОСТ) 0*5</name>
+
+		<param name="Цена">0*5</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="10">
+		<param name="Категория">песок</param>
+
+		<name>песок из отсева дробления (ТУ) 0*5</name>
+
+		<param name="Цена">0*5</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="11">
+		<param name="Категория">ЩПС</param>
+
+		<name>ЩПС (С1) 0*40</name>
+
+		<param name="Цена">0*40</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="12">
+		<param name="Категория">ЩПС</param>
+
+		<name>ЩПС (C2) 0*20</name>
+
+		<param name="Цена">0*20</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="13">
+		<param name="Категория">ЩПС</param>
+
+		<name>ЩПС (C4) 0*80</name>
+
+		<param name="Цена">0*80</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="14">
+		<param name="Категория">ЩПС</param>
+
+		<name>ЩПС (C5) 0*40</name>
+
+		<param name="Цена">0*40</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="15">
+		<param name="Категория">ЩПС</param>
+
+		<name>ЩПС (C7) 0*10</name>
+
+		<param name="Цена">0*10</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="16">
+		<param name="Категория">ЩПС</param>
+
+		<name>ЩПС (ТУ) 0*80</name>
+
+		<param name="Цена">0*80</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="17">
+		<param name="Категория">ЩПС</param>
+
+		<name>ЩПС (ТУ) 0*40</name>
+
+		<param name="Цена">0*40</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="18">
+		<param name="Категория">ЩПС</param>
+
+		<name>ЩПС (ТУ) 0*10</name>
+
+		<param name="Цена">0*10</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+<offer id="19">
+		<param name="Категория">Грунт</param>
+
+		<name>Грунт 2-ой категории 0*5(10)</name>
+
+		<param name="Цена">0*5(10)</param>
+
+		<param name="Ед. измерения">руб/т</param>
+
+		<currencyId>RUB</currencyId>
+
+		<url>http://izvestnyak.org/%D1%86%D0%B5%D0%BD%D1%8B/</url>
+
+     	</offer>
+</offers>
+
+		</shop>
+
+		</yml_catalog>
